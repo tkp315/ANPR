@@ -1,0 +1,9 @@
+# Number of classes in your dataset
+nc: 1
+# Class names
+names:['numberplate']
+# Paths to training and validation images and labels
+train: modelImages/images/training  # path to training images
+val:   modelImages/labels/validation  # path to validation images
+
+
